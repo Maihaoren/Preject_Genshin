@@ -9,7 +9,7 @@
 详细的使用示范可以参照genshin2_2_example.py
 
 ### 使用genshin2_2_example生成图像：
-将目标图像放入pictures文件夹中
+将目标图像放入pictures文件夹中,运行genshin2_2_example.py,输入图片名称(如genshin.png, pic4.jpg),等待输出结果
 
 
 _text below are translated by Google_
@@ -23,6 +23,8 @@ This is an opencv-based program that converts pictures into a series of characte
 There is a function draw(pic) in genshin2_2.py, where pic is an array() in numpy, which will return a string (the result of image conversion) according to the array, and you can directly use print() to print it.
 For detailed usage demonstration, please refer to genshin2_2_example.py
 
+### Generate images using genshin2_2_example:
+Put the target image into the pictures folder, run genshin2_2_example.py, enter the picture name (such as genshin.png, pic4.jpg), and wait for the output result
 
 ## 效果演示：
 
