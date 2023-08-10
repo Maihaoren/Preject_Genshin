@@ -1,8 +1,8 @@
 # 项目:原神
-这个项目与原神无关
+这个项目与原神无关(真的)
 
 ## 关于这个项目
-这是一个基于opencv的可以将图片转化为一系列字符的程序(真的)
+这是一个基于opencv的可以将图片转化为一系列字符的程序
 
 ## 使用教程
 在genshin2_2.py中包含有函数draw(pic)，其中pic为numpy中的array数组，其会根据数组返回字符串（既图片转换的结果），你可以直接使用print打印他。
@@ -20,7 +20,7 @@ This project has nothing to do with the game Genshin Impact (FR)
 This is an opencv-based program that converts pictures into a series of characters
 
 ## Use tutorial
-There is a function draw(pic) in genshin2_2.py, where pic is an array array in numpy, which will return a string (the result of image conversion) according to the array, and you can directly use print to print it.
+There is a function draw(pic) in genshin2_2.py, where pic is an array() in numpy, which will return a string (the result of image conversion) according to the array, and you can directly use print() to print it.
 For detailed usage demonstration, please refer to genshin2_2_example.py
 
 
@@ -36,4 +36,5 @@ For detailed usage demonstration, please refer to genshin2_2_example.py
 结果
 ![image](https://github.com/Maihaoren/Preject_Genshin-_-/assets/85425490/bd1fedef-3ada-48c6-be0a-c647088b4019)
 
+##### (结果图是我打印到cmd截图接下来的..)
 
