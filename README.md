@@ -12,6 +12,8 @@
 将目标图像放入pictures文件夹中,运行genshin2_2_example.py,输入图片名称(如genshin.png, pic4.jpg),等待输出结果
 
 
+
+
 _text below are translated by Google_
 # Preject_Genshin-_-
 This project has nothing to do with the game Genshin Impact (FR)
