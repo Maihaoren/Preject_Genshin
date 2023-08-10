@@ -27,13 +27,19 @@ For detailed usage demonstration, please refer to genshin2_2_example.py
 ## 效果演示：
 
 原图
+
 ![genshin](https://github.com/Maihaoren/Preject_Genshin-_-/assets/85425490/3f1e06e1-1b01-4dc9-b1fb-173edb4e2946)
+
 结果
+
 ![image](https://github.com/Maihaoren/Preject_Genshin-_-/assets/85425490/a53b211b-47ad-4d91-91a1-151ad832fb46)
 
 原图
+
 ![pic4](https://github.com/Maihaoren/Preject_Genshin-_-/assets/85425490/8e954b18-44b7-4e50-86ff-402ce20d18c8)
+
 结果
+
 ![image](https://github.com/Maihaoren/Preject_Genshin-_-/assets/85425490/bd1fedef-3ada-48c6-be0a-c647088b4019)
 
 ##### (结果图是我打印到cmd截图接下来的..)
